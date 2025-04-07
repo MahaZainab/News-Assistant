@@ -1,1 +1,1 @@
-# News-AI-Assistant
+# News-Assistant
